@@ -2,8 +2,6 @@
 
 In this project I created a basic frontend with React to manage Posts. An API written in .NET Core provides the backend.
 
-Finished: 15.01.23
-
 <br>
 
 ## Pictures
