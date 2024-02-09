@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .headerTitle {
+      @apply text-2xl font-serif capitalize px-10 pt-5 underline decoration-purple-700 decoration-2 underline-offset-4;
+    }
+  }

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Lucas Menke",
+    "userName": "lucasmenke",
+    "profilePictureUrl": "https://octodex.github.com/images/original.png",
+    "links": [
+      {
+        "id": 1,
+        "profileModelId": 1,
+        "title": "My GitHub Page",
+        "url": "https://github.com/lucasmenke"
+      },
+      {
+        "id": 2,
+        "profileModelId": 1,
+        "title": "My Instagram Page",
+        "url": "https://instagram.com/"
+      }
+    ],
+    "socials": [
+      {
+        "id": 1,
+        "profileModelId": 1,
+        "platform": "Twitter",
+        "url": "https://twitter.com/elonmusk"
+      },
+      {
+        "id": 2,
+        "profileModelId": 1,
+        "platform": "GitHub",
+        "url": "https://github.com/lucasmenke"
+      }
+    ]
+  },
+  "success": true,
+  "message": ""
+}
