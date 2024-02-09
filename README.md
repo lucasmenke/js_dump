@@ -1,3 +1,3 @@
 # js_dump
 
-Dump with different JS / TS projects.
+Dump with different JS & TS projects.
